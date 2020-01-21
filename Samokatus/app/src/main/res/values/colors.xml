@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorBlack">#520D1317</color>
+    <color name="colorPrimaryDark">#B9B9B9</color>
+    <color name="colorBlackDark">#000000</color>
+
+    // activity_main colors
+    <color name="colorAccent">#7C5BFF</color>
+    <color name="colorTextDefaultLight">#FFFFFF</color>
+    <color name="colorTextGray">#520D1317</color>
+    <color name="colorTextDefaultDark">#0D1317</color>
+    <color name="colorTextPlusMoney">#3BA99C</color>
+    <color name="colorBackgroundSalary">#99E9F1F7</color>
+    <color name="colorButtonDark">#381EA6</color>
+
+    // activity_tickets
+    <color name="colorDescription">#9A2D6190</color>
+    <color name="colorTextBlue">#2D6190</color>
+    <color name="colorBackgroundHome">#F5F7F9</color>
+
+    // activity_details
+    <color name="colorDividerDefault">#F5F5F5</color>
+</resources>
